@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\44663\\p01\\p01.csproj",
+      "projectUniqueName": "C:\\44663\\P01---Currency-Converter\\p01.csproj",
       "projectName": "p01",
-      "projectPath": "C:\\44663\\p01\\p01.csproj",
+      "projectPath": "C:\\44663\\P01---Currency-Converter\\p01.csproj",
       "packagesPath": "C:\\Users\\s521315\\.nuget\\packages\\",
-      "outputPath": "C:\\44663\\p01\\obj\\",
+      "outputPath": "C:\\44663\\P01---Currency-Converter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
