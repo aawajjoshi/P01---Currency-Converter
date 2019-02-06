@@ -7,7 +7,7 @@ namespace p01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Currency Converter");
+            Console.WriteLine("This is .net class!");
             Console.WriteLine("------------------- \n");
 
             //Getting user's info
