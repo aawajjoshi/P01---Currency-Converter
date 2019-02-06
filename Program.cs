@@ -7,7 +7,7 @@ namespace p01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is .net class!");
+            Console.WriteLine("This is a in-classs demo!");
             Console.WriteLine("------------------- \n");
 
             //Getting user's info
